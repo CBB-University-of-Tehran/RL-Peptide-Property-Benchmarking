@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and repository."
+title: "RL-Peptide-Property-Benchmarking"
+type: software
+authors:
+  - family-names: "Noroozi Tiyoula"
+    given-names: "Fereshteh"
+  - family-names: "Gholami"
+    given-names: "Marzieh"
+  - family-names: "Ariaeenejad"
+    given-names: "Shohreh"
+  - family-names: "Kavousi"
+    given-names: "Kaveh"
+repository-code: "https://github.com/CBB-University-of-Tehran/RL-Peptide-Property-Benchmarking"
+license: "Apache-2.0"
