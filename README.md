@@ -111,4 +111,4 @@ If you use this code or benchmarking workflow, please cite the associated manusc
 
 ## License
 
-A license has not yet been assigned. Add the license selected by the authors before public release.
+This project is licensed under the Apache License 2.0. See the LICENSE file for details.
