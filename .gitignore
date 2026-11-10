@@ -1,0 +1,48 @@
+# Python bytecode and local caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local virtual environments and build artifacts
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Temporary files and local logs
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Local credentials; never commit tokens or API keys
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Private or locally downloaded source-data directories.
+# IMPORTANT: database-derived data must only be published after rights review.
+private_data/
+local_data/
+raw_downloads/
+
+# Do not ignore *.fasta, *.html, or *.ipynb globally:
+# the repository intentionally tracks its released peptide FASTA,
+# the benchmarking HTML report, and the main Jupyter notebook.
